@@ -1,0 +1,47 @@
+[{
+        "category": "test",
+        "thumbnail": "https://image.freepik.com/free-vector/abstract-dynamic-pattern-wallpaper-vector_53876-43459.jpg",
+        "wallpapers": [{
+                "name": "P. Name",
+                "url": "https://i.pinimg.com/236x/e9/8c/e1/e98ce15eaa7db7faacb87c91bb6fd418.jpg",
+                "isTrending": true,
+                "isPopular": true
+            },
+            {
+                "name": "P. Name",
+                "url": "https://images.pexels.com/photos/1493378/pexels-photo-1493378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "isTrending": true,
+                "isPopular": false
+            },
+            {
+                "name": "P. Name",
+                "url": "https://images.pexels.com/photos/1493378/pexels-photo-1493378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "isTrending": true,
+                "isPopular": false
+            },
+            {
+                "name": "P. Name",
+                "url": "https://images.pexels.com/photos/1493378/pexels-photo-1493378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "isTrending": true,
+                "isPopular": true
+            }
+        ]
+    },
+    {
+        "category": "test",
+        "thumbnail": "https://image.freepik.com/free-vector/abstract-dynamic-pattern-wallpaper-vector_53876-43459.jpg",
+        "wallpapers": [{
+                "name": "P. Name",
+                "url": "https://images.pexels.com/photos/1493378/pexels-photo-1493378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "isTrending": true,
+                "isPopular": false
+            },
+            {
+                "name": "P. Name",
+                "url": "https://images.pexels.com/photos/1493378/pexels-photo-1493378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "isTrending": true,
+                "isPopular": false
+            }
+        ]
+    }
+]
